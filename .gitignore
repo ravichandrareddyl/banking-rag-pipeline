@@ -1,0 +1,12 @@
+.env
+chroma
+downloaded_pdfs/
+ml-data/
+models/
+ragenv/
+vectordb
+bge_onnx
+local_model
+ollama.txt
+exploratory/
+
